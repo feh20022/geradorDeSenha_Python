@@ -1,0 +1,15 @@
+# inicializar o projeto
+	# importa os Radons e outros frameworks etc...
+
+# formulario para pegar informacoes
+	# criar as variaveis
+	# pergunta quantos caracteriz devem ter
+		# Quantos numero e letras
+
+# fazer a logica por tras
+	# fazer o radon de numero (0 a 9)
+	# fazer o radon de letras (a, z)
+	# de acordo com o formularios separa as var aletorias
+	# e mistura elas para assim forma a senha nova
+	
+# fazer um return mostrando assim a nova senha e finalizando a aplicacao
